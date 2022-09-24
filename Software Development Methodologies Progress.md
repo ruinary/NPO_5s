@@ -1,1 +1,1 @@
-![Software Development Methodologies](screens/Software Development Methodologies.png)
+![Software Development Methodologies](screens/SoftwareDevelopmentMethodologies.png)
