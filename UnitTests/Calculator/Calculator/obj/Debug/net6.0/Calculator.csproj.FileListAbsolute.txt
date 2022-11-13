@@ -1,0 +1,15 @@
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.AssemblyReference.cache
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfoInputs.cache
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\Calculator.AssemblyInfo.cs
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\Calculator.csproj.CoreCompileInputs.cache
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\bin\Debug\net6.0\Calculator.exe
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\bin\Debug\net6.0\Calculator.deps.json
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\bin\Debug\net6.0\Calculator.runtimeconfig.json
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\bin\Debug\net6.0\Calculator.dll
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\bin\Debug\net6.0\Calculator.pdb
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\Calculator.dll
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\refint\Calculator.dll
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\Calculator.pdb
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\Calculator.genruntimeconfig.cache
+D:\git\NPO_5s\UnitTests\Calculator\Calculator\obj\Debug\net6.0\ref\Calculator.dll
