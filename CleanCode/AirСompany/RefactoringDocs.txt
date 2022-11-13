@@ -1,0 +1,50 @@
+﻿
+AirportTest :
+1. planes сделал readonly
+2. переименовал в _planes 
+3. переименовал в _planeWithMaxPassengerCapacity
+4. убрал ненужную переменную expectedPlaneWithMaxPassengersCapacity
+5. убрал ненужное true в сравнении    Assert.That(nextPlaneMaxLoadCapacityIsHigherThanCurrent==true);
+6. убрал ненужное поле _planeWithMaxPassengerCapacity
+7. MyTest1 оптимизирован
+8. MyTest2 помечен ТУДУ , так как ничего не возращает
+9. MyTest3 оптимизирован
+
+CleassificationLevel :
+1. Ненужный enum , а значит , и класс.
+
+ExperimentalTypes :
+1. Ненужный enum , а значит , и класс.
+
+MilitaryPlane :
+1. Сделал поле _type автосвойством с одним геттером и убрал предыдущий функциональный геттер. 
+2. Equals - убрал из проверки && base.Equals(obj) 
+3. Избавился от хардкода переменых в GetHashCode 
+4. Переписан ToString;
+
+Plane : 
+1.Все поля сделал автосвойствами с одним getterom , убрал ненужные функциональные геттеры и переименовал свойства.
+2.Equals - убрал из проверки && base.Equals(obj) 
+3.HashCode переписал
+
+Весь солюшен :
+Папку Models переименовал в Types
+Сделал Cleanup Code
+Namespace c Aircompany на AirCompany
+
+PassengerPlane :
+1.GetHashCode - убрал хардкод 
+2.ToString - убрал логику с Replace и 
+
+
+Runners : 
+1. planes сделал readonly private и переименовал в Planes
+2. var при объявлении переменных
+3. убрал ненужный вызов toString();
+
+Airport : 
+1. Метод GetPassengersPlanes,GetMilitaryPlanes, переписан с использованием методов расширения OfType .
+2. Методы GetPassengerPlaneWithMaxPassengersCapacity и GetTransportMilitaryPlanes переписаны с использованием linq.
+3. GetPlanes переписал в новое свойство Planes возращающее IEnumerable<Plane>.
+
+

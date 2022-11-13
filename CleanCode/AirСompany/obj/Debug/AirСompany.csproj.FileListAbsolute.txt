@@ -1,0 +1,8 @@
+D:\study\3 курс\НПО\CleanCode\AirСompany\bin\Debug\AirСompany.exe.config
+D:\study\3 курс\НПО\CleanCode\AirСompany\bin\Debug\AirСompany.exe
+D:\study\3 курс\НПО\CleanCode\AirСompany\bin\Debug\AirСompany.pdb
+D:\study\3 курс\НПО\CleanCode\AirСompany\obj\Debug\AirСompany.csproj.AssemblyReference.cache
+D:\study\3 курс\НПО\CleanCode\AirСompany\obj\Debug\AirСompany.csproj.SuggestedBindingRedirects.cache
+D:\study\3 курс\НПО\CleanCode\AirСompany\obj\Debug\AirСompany.csproj.CoreCompileInputs.cache
+D:\study\3 курс\НПО\CleanCode\AirСompany\obj\Debug\AirСompany.exe
+D:\study\3 курс\НПО\CleanCode\AirСompany\obj\Debug\AirСompany.pdb
